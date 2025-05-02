@@ -46,8 +46,11 @@ Indicators: ta (technical analysis library)
 
 .
 ├── app.py                         # Streamlit application
+
 ├── *.csv                          # Historical stock data files
+
 ├── models/                        # (Optional) Saved models (joblib)
+
 └── README.md                      # Project documentation
 
 
